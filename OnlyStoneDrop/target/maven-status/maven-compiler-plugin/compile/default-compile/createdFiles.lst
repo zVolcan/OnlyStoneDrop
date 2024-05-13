@@ -1,0 +1,3 @@
+src\main\zvolcan\OnlyStoneDrop.class
+src\main\zvolcan\commands\MainCommand.class
+src\main\zvolcan\listeners\BlockBreakListener.class

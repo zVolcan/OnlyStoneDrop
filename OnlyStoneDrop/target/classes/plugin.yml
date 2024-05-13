@@ -1,0 +1,12 @@
+name: OnlyStoneDrop
+version: '0.9'
+main: src.main.zvolcan.OnlyStoneDrop
+api-version: '1.13'
+load: STARTUP
+authors: [zVolcan]
+description: It changes the drop of different stones and turns them into cobblestone.
+website: paypal.me/concentracion
+commands:
+  onlystonedrop:
+    description: "Main command on plugin."
+    usage: "/osd enable | disable"
